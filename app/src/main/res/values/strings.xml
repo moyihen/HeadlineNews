@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">HeadlineNews</string>
+
+    <!-- Title -->
+    <string name="title_news">新闻</string>
+    <string name="title_other">其他</string>
+    <string name="title_photo">图片</string>
+    <string name="title_video">视频</string>
+    <string name="title_media">头条号</string>
+
+
+    <!-- Menu Action -->
+    <string name="action_search">搜索</string>
+    <string name="action_setting">设置</string>
+    <string name="action_change_theme">切换主题</string>
+    <string name="action_open_comment">查看评论</string>
+    <string name="action_follow_media">关注此头条号</string>
+    <string name="action_share">分享</string>
+    <string name="action_download">下载</string>
+    <string name="action_open_in_browser">在浏览器中打开</string>
+    <string name="action_copy_content">复制内容</string>
+    <string name="action_unfollow_media">取消关注</string>
+    <string name="action_open_media_home">查看此头条号主页</string>
 </resources>
