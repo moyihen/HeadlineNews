@@ -21,4 +21,16 @@
     <string name="action_copy_content">复制内容</string>
     <string name="action_unfollow_media">取消关注</string>
     <string name="action_open_media_home">查看此头条号主页</string>
+
+    <!--Main Activity-->
+    <string name="navigation_drawer_open">打开侧栏</string>
+    <string name="navigation_drawer_close">关闭侧栏</string>
+
+    <!--Navigation Item-->
+    <string name="nav_account">个人</string>
+    <string name="nav_switch_night_mode">切换主题</string>
+    <string name="nav_setting">设置</string>
+    <string name="nav_share">分享</string>
+    <string name="video_force_landscape">视频横屏</string>
+    <string name="video_force_landscape_summary">开启后强制横屏播放视频(能自动旋转就别开)</string>
 </resources>

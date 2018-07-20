@@ -30,5 +30,11 @@
         app:menu="@menu/bottom_navigation_main"
         />
 </android.support.design.widget.CoordinatorLayout>
-
+    <android.support.design.widget.NavigationView
+        android:layout_width="wrap_content"
+        android:id="@+id/nav_view"
+        android:layout_gravity="start"
+        android:layout_height="match_parent"
+        app:headerLayout="@layout/nav_header_main"
+        app:menu="@menu/nav_menu"/>
 </android.support.v4.widget.DrawerLayout>
